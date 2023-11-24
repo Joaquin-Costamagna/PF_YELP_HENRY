@@ -244,8 +244,7 @@ A continuación se presentan los 8 KPIs propuestos y sus métricas asociadas:
 
 Los entregables de la semana 1 se encuentran en la carpeta Sprint_1: 
 
-- Tratamiento de datos previo al EDA preliminar: [Yelp.ipynb](Sprint_1/Yelp.ipynb)  y [Google_maps.ipynb](Sprint_1/Google_maps.ipynb)
-- [EDA_preliminar.ipynb](Sprint_1/EDA_preliminar.ipynb)
+- Tratamiento de datos previo al EDA preliminar: [EDA.ipynb](Sprint_1/Yelp.ipynb) 
 - [Informe](Sprint_1/Informe.pdf)  
 
 <span style="float:right;">[arriba](#tabla-de-contenido)</span> 
