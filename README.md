@@ -9,8 +9,12 @@
 </p>
 
 
-# <h1 align=center>**`Nombre de la Empresa`**</h1>
+# <h1 align=center>**`Iterable Consulting`**</h1>
+<p align="center">
+<img src="./src/logo.png" width="300" height="200">
+
 # <h3 align=center>**`Data Science | Data Analytics | MArketing Data & BI`**</h3>
+</p>
 <!--<div style="text-align: center"><font size="3">**`Data Engineering | Data Science | BI & Data Analytics`** </font> </div>-->
 <!--
 # <h1 align=center>**`Hoover Zavala`**</h1><h3 align=center>`Data Engineering | BI & Data Analytics | Data Science`</h3>
@@ -18,16 +22,7 @@
 <hr> 
 <br>
 
-
-<!--
-<p align="center">
-  <img src="./src/logo.png" width="200" height="200">
-</p>
--->
-
 <br>
-
-
 
 ## Tabla de Contenido
 
@@ -50,12 +45,13 @@
 
 <br>
 
-## 1. Introducción <span style="float:right;">[arriba](#tabla-de-contenido)</span>  
+## 1. Introducción 
 
 Somos <nombre>, una firma de consultoría especializada en brindar soluciones de negocios basados en tecnologias escalables, robustas y basados en datos.
 
 Nuestra labor se centra en el análisis de datos procedente de diversas fuentes y en diferentes formatos, realizar el debido procesamiento y analisis para la identificación de patrones y tendencias
 
+<span style="float:right;">[arriba](#tabla-de-contenido)</span> 
 
 <br>
 
@@ -80,17 +76,17 @@ Entonces nuestro objetivo es el de, a partir de dicha fuente de datos, y aplican
 
 Dentro de <NOMBRE> conformamos un equipo de trabajo de seis personas encargado de sacar adelante el proyecto, asignando los roles especificos a cumplir por cada uno.
 
-<span style="float:right;">[arriba](#tabla-de-contenido)</span>  
-
 <br>
 
 <p align="center">  
-    <img src="./src/Roles.png"  height=300>    
+    <img src="./src/Roles.png"  height=200>    
 </p>
 
 <br>
 
-Cabe mencionar, que como la metodología de trabajo es por etapas, los roles pueden verse sujetos a modificación en función de las necesidades del proyecto. 
+Cabe mencionar, que como la metodología de trabajo es por etapas, los roles pueden verse sujetos a modificación en función de las necesidades del proyecto.  
+
+<span style="float:right;">[arriba](#tabla-de-contenido)</span> 
 
 <br>
 
@@ -107,7 +103,10 @@ En esta etapa tambien se presenta pruebas de concepto de los entregables de la e
 
 Semana 3 - Etapa de Data Analytics y Machine Learning  
 En esta etapa final, se disponibilizan las soluciones de machine learning requeridas por el cliente y se presentan las conclusiones relacionadas al requerimiento del negocio utilizando como apoyo herramientas de visualizacion
-En esta etapa tambien se hace entrega de se explica el repositorio completo y toda la documentacion del proyecto. 
+En esta etapa tambien se hace entrega de se explica el repositorio completo y toda la documentacion del proyecto.  
+
+<span style="float:right;">[arriba](#tabla-de-contenido)</span> 
+
 <br>
 
 ## 5. Estructura del Repositorio
@@ -115,7 +114,7 @@ En esta etapa tambien se hace entrega de se explica el repositorio completo y to
 <!--## 3. **<u>Estructura del Repositorio</u>** -->
 <br>
 <p align="left">  
-    <img src="./src/estructura_repo.png"  height=250>    
+    <img src="./src/estructura_repo.png"  height=200>    
 </p>
 
 <br>
@@ -129,6 +128,8 @@ En esta etapa tambien se hace entrega de se explica el repositorio completo y to
 **`Archivo 'README.md'.-`** archivo actual.  
 **`Carpeta 'src'.-`** carpeta fuente del archivo actual.  
 
+<span style="float:right;">[arriba](#tabla-de-contenido)</span> 
+
 <br>
 
 ## 6. Metodologia de Trabajo y Gestión de las tareas
@@ -137,9 +138,15 @@ El equipo de trabajo acordo la adopcion de la metodología de trabajo Scrum como
 
 Ademas, para la gestion de las tareas se utilizo la herramienta Jira Software. Las tareas, su duración y fecha, su avance y porcentaje de completitud se presentan a continuación.
 
+<br>
+
 ![Diagrama de Gantt](./src/Gantt.png)
 
-Para visualizar el diagrama de Gantt en la plataforma de Jira Software acceda al siguiente enlace:  [Diagrama de Gantt](https://)
+<br>
+
+Para visualizar el diagrama de Gantt en la plataforma de Jira Software acceda al siguiente enlace:  [Diagrama de Gantt](https://)  
+
+<span style="float:right;">[arriba](#tabla-de-contenido)</span> 
 
 <br>
 
@@ -149,9 +156,11 @@ Para visualizar el diagrama de Gantt en la plataforma de Jira Software acceda al
    ![Static Badge](https://img.shields.io/badge/JUPYTER%20NOTEBOOK-%23F37626?style=plastic&logo=jupyter&labelColor=%235C5C5C)  
    ![Static Badge](https://img.shields.io/badge/PANDAS-%23F5F5F5?style=plastic&logo=pandas&labelColor=%235C5C5C)  
    ![Static Badge](https://img.shields.io/badge/NUMPY-%234DABCF?style=plastic&logo=numpy&logoColor=%234DABCF&labelColor=%235C5C5C)  
-   ![Static Badge](https://img.shields.io/badge/POWER%20BI-%23F2C811?style=plastic&logo=powerbi&logoColor=%23F2C811&labelColor=%235C5C5C)
-<!-- ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/PythonAnywhere?logo=python) -->
+   ![Static Badge](https://img.shields.io/badge/POWER%20BI-%23F2C811?style=plastic&logo=powerbi&logoColor=%23F2C811&labelColor=%235C5C5C)  
 
+<span style="float:right;">[arriba](#tabla-de-contenido)</span> 
+
+<!-- ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/PythonAnywhere?logo=python) -->
 <br>
 
 
@@ -166,9 +175,18 @@ Para la automatizacion del proceso de ETL, implementamos Google Cloud Functions,
 - Python para implementar los modelos de aprendizaje.
 - Power Bi para la visualización de datos y KPIs.
 
-El workflow del proceso se presenta a continuación:
+El workflow del proceso se presenta a continuación:  
 
-![workflow](./src/workflow.png)
+<br>
+
+<p align="center">  
+    <img src="./src/workflow.png"  height=550>    
+</p>
+
+
+<br>
+
+<span style="float:right;">[arriba](#tabla-de-contenido)</span> 
 
 <br>
 
@@ -178,7 +196,9 @@ Se realizaron tareas de importacion de librerias, carga del dataset
 Se realizaron analisis sobre todas las variables significativas   
 Se confecciono un informe escrito sobre los resultados obtenidos en la etapa de analisis  
 
+<span style="float:right;">[arriba](#tabla-de-contenido)</span> 
 
+<br>
 
 ## 10. Modelo de Machine Learning
 
@@ -186,18 +206,28 @@ El Sistema de Recomendación a diseñar tendra las siguientes caracteristicas:
 
 - Personalización: Proporcionar recomendaciones basadas en las preferencias de los usuarios y las tendencias de reseñas a través de los comentarios en la plataforma Yelp y Gmaps.
 - Eficiencia: Optimizar el tiempo y los recursos de inversión al ofrecer recomendaciones precisas y relevantes.
-- Análisis de Sentimientos: Incorporar análisis de sentimientos en las reseñas para escalar en recomendaciones personalizadas y fidedignas
+- Análisis de Sentimientos: Incorporar análisis de sentimientos en las reseñas para escalar en recomendaciones personalizadas y fidedignas  
+
+<span style="float:right;">[arriba](#tabla-de-contenido)</span> 
 
 <br>
 
 ## 11. Indicadores Clave de Rendimiento
 
-A continuación se presentan los <> KPIs propuestos y sus métricas asociadas:
+A continuación se presentan los 8 KPIs propuestos y sus métricas asociadas:
 
 1. Crecimiento anual de la cantidad de puntos nuevos creados por estado
 2. Porcentaje de crecimiento anual de la cantidad de puntos nuevos creados por tipo de comercio 
 3. Top 5 o 10 (por definir) de los comercios de mayor representatividad y mejor valorados por estado
-4. Top 10 de los aspectos a mejorar incluidos en las reseñas más importantes por comercio y clasificados estado
+4. Top 10 de los aspectos a mejorar incluidos en las reseñas más importantes por comercio y clasificados estado  
+5. Aumentar la cantidad de reseñas por restautantes, bares, etc un 10% en forma anual con respecto al año anterior
+6. Aumentar un 5 % las reseñas positivas en forma anual con respecto al año anterior
+7. Aumentar el promedio de calificaciones de los restaurantes, bares, etc., en un 5% en forma anual con respecto al año anterior
+8. Reducir el tiempo promedio de respuesta a las reseñas de 24 horas a 12 horas con respecto al año anterior
+
+<span style="float:right;">[arriba](#tabla-de-contenido)</span> 
+
+<br>
 
 <!--  
 
@@ -207,30 +237,26 @@ A continuación se presentan los <> KPIs propuestos y sus métricas asociadas:
 
 -->
 
-<br>
-
-
-
-<span style="float:right;">[arriba](#tabla-de-contenido)</span>  
-
-#
-<br>
-
 ## 12. Entregables
 
-Los entregables de la semana 1 se encuentran en la carpeta Semana_1: 
+Los entregables de la semana 1 se encuentran en la carpeta Sprint_1: 
 
 - Tratamiento de datos previo al EDA preliminar: [Yelp.ipynb](Sprint_1/Yelp.ipynb)  y [Google_maps.ipynb](Sprint_1/Google_maps.ipynb)
 - [EDA_preliminar.ipynb](Sprint_1/EDA_preliminar.ipynb)
-- [Informe](Sprint_1/Informe.pdf)
+- [Informe](Sprint_1/Informe.pdf)  
+
+<span style="float:right;">[arriba](#tabla-de-contenido)</span> 
 
 <br>
 
 
 ## 13. Gracias por su atencion
 Te parecio interesante el proyecto? No olvides [regalarnos](https://github.com/Joaquin-Costamagna/PF_YELP_HENRY/stargazers) una ⭐.  
-Tienes una idea en mente o encontraste algun bug? Por favor abre un [issue](https://github.com/Joaquin-Costamagna/PF_YELP_HENRY/issues) o inicia una [discusion](https://github.com/Joaquin-Costamagna/PF_YELP_HENRY/discussions).
+Tienes una idea en mente o encontraste algun bug? Por favor abre un [issue](https://github.com/Joaquin-Costamagna/PF_YELP_HENRY/issues) o inicia una [discusion](https://github.com/Joaquin-Costamagna/PF_YELP_HENRY/discussions).  
 
+<span style="float:right;">[arriba](#tabla-de-contenido)</span> 
+
+<br>
 
 <!--  
 <div align="right">[ <a href="#table-of-contents">↑ Back to top ↑</a> ]</div> 
@@ -290,10 +316,5 @@ Para cumplir con este objetivo, nuestro equipo se ha propuesto las siguientes me
  
 Este proyecto se centrará en el análisis de las reseñas de los últimos 5 años de Yelp y Google Maps acerca de las cadenas de fast food más importantes de Florida, Estados Unidos, con el objetivo de identificar cuál es la mejor opción a la hora de adquirir una franquicia basado en un sistema de recomendación que tiene en cuenta la preferencia de los usuarios y las tendencias en las reseñas de locales de comida rápida en la ciudad de Florida. 
 ********************************************************************
-
-
-
-
-
 
 -->
