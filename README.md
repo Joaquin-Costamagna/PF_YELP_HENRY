@@ -1,7 +1,7 @@
 
 # <h1 align=center> **`PROYECTO DE ANALISIS DE DATOS`** </h1>
 
-# <h1 align=center>**`Analitica del Mercado Gastronomico en USA`**</h1>
+# <h1 align=center>**`Analitica del Mercado Gastronomía - Ocio en USA`**</h1>
 
 <p align="center">
     <img src="./src/portada4.jpeg"  height=500>
@@ -47,7 +47,7 @@
 
 ## 1. Introducción 
 
-Somos <nombre>, una firma de consultoría especializada en brindar soluciones de negocios basados en tecnologias escalables, robustas y basados en datos.
+Somos Iterable Consulting, una firma de consultoría especializada en brindar soluciones de negocios basados en tecnologias escalables, robustas y basados en datos.
 
 Nuestra labor se centra en el análisis de datos procedente de diversas fuentes y en diferentes formatos, realizar el debido procesamiento y analisis para la identificación de patrones y tendencias
 
@@ -57,7 +57,7 @@ Nuestra labor se centra en el análisis de datos procedente de diversas fuentes 
 
 ## 2. Objetivos y Alcance del Proyecto
 
-En cuanto al trabajo que nos concierne, nuestro cliente, una empresa lider en el rubro gastronomico que forma parte de un importante conglomerado  de empresas de restaurantes y afines, se ha propuesto abrir nuevas unidades de negocios en Estados Unidos, por lo que nos ha pedido elaborar un proyecto de data analytics para el mercado gastronomico estadounidense.
+En cuanto al trabajo que nos concierne, nuestro cliente, una empresa lider en el rubro gastronomico que forma parte de un importante conglomerado  de empresas de restaurantes y afines, se ha propuesto abrir nuevas unidades de negocios en Estados Unidos, por lo que nos ha pedido elaborar un proyecto de data analytics que permita evaluar y definir los mercados del rubro gastronomico y de ocio mas atractivos para la inversion en dicho país.
 
 Los requerimientos expresados por nuestro cliente se resumen así:  
 * Predecir cuáles serán los rubros de los negocios que más crecerán (o decaerán). 
@@ -66,7 +66,7 @@ Los requerimientos expresados por nuestro cliente se resumen así:
 
 Para la consecucion de estos requerimientos nuestro cliente puso a nuestra disposicion sendos datasets producidos y mantenidos por las plataformas Yelp! y Google para usarlos como fuente de datos obligatorios, aunque no de manera exclusivos.  
 
-Entonces nuestro objetivo es el de, a partir de dicha fuente de datos, y aplicando técnicas de análisis de datos, de machine learning y visualización, implementar soluciones da datos pertinentes y extraer informacion releveante que satisfaga los requerimientos de nuestro cliente.  
+Entonces nuestro objetivo es el de, a partir de dicha fuente de datos, y aplicando técnicas de análisis de datos, de machine learning y visualización, implementar soluciones da datos pertinentes y extraer informacion releveante que satisfaga los requerimientos de inversion y captacion de usuarios de nuestro cliente.  
 
 <span style="float:right;">[arriba](#tabla-de-contenido)</span>  
 
@@ -74,7 +74,7 @@ Entonces nuestro objetivo es el de, a partir de dicha fuente de datos, y aplican
 
 ## 3. Roles
 
-Dentro de <NOMBRE> conformamos un equipo de trabajo de seis personas encargado de sacar adelante el proyecto, asignando los roles especificos a cumplir por cada uno.
+Dentro de Iterable, conformamos un equipo de trabajo de seis personas encargado de sacar adelante el proyecto, asignando los roles especificos a cumplir por cada uno.
 
 <br>
 
@@ -152,11 +152,14 @@ Para visualizar el diagrama de Gantt en la plataforma de Jira Software acceda al
 
 
 ## 7. Stack Tecnologico Utilizado  
+   ![Static Badge](https://img.shields.io/badge/GOOGLE%20CLOUD-%230943A2?style=plastic&logo=googlecloud&logoColor=%230943A2&labelColor=%235C5C5C)  
    ![Static Badge](https://img.shields.io/badge/PYTHON%203-%233776AB?logo=python&labelColor=%231F1F1F)  
    ![Static Badge](https://img.shields.io/badge/JUPYTER%20NOTEBOOK-%23F37626?style=plastic&logo=jupyter&labelColor=%235C5C5C)  
    ![Static Badge](https://img.shields.io/badge/PANDAS-%23F5F5F5?style=plastic&logo=pandas&labelColor=%235C5C5C)  
    ![Static Badge](https://img.shields.io/badge/NUMPY-%234DABCF?style=plastic&logo=numpy&logoColor=%234DABCF&labelColor=%235C5C5C)  
    ![Static Badge](https://img.shields.io/badge/POWER%20BI-%23F2C811?style=plastic&logo=powerbi&logoColor=%23F2C811&labelColor=%235C5C5C)  
+
+
 
 <span style="float:right;">[arriba](#tabla-de-contenido)</span> 
 
