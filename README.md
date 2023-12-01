@@ -114,12 +114,13 @@ En esta etapa tambien se hace entrega de se explica el repositorio completo y to
 <!--## 3. **<u>Estructura del Repositorio</u>** -->
 <br>
 <p align="left">  
-    <img src="./src/estructura_repo.png"  height=200>    
+    <img src="./src/estructura_repo.png"  height=350>    
 </p>
 
 <br>
 
 **`Carpeta 'Sprint_1'.-`** contiene todos los entregables de la etapa 1
+**`Carpeta 'Sprint_1'.-`** contiene todos los entregables de la etapa 2
 <!--* **`'EDA.ipynb':`** implementacion del analisis exploratorio de datos. -->
 
 **`Carpeta 'data'.-`** contiene los datasets del proyecto
@@ -144,7 +145,7 @@ Ademas, para la gestion de las tareas se utilizo la herramienta Jira Software. L
 
 <br>
 
-Para visualizar el diagrama de Gantt en la plataforma de Jira Software acceda al siguiente enlace:  [Diagrama de Gantt](https://)  
+Para visualizar el diagrama de Gantt en la plataforma de Jira Software acceda al siguiente enlace:  [Diagrama de Gantt](https://grupo08henry.atlassian.net/jira/software/projects/SCRUM/boards/1/timeline)  
 
 <span style="float:right;">[arriba](#tabla-de-contenido)</span> 
 
@@ -244,8 +245,21 @@ A continuación se presentan los 8 KPIs propuestos y sus métricas asociadas:
 
 Los entregables de la semana 1 se encuentran en la carpeta Sprint_1: 
 
-- Tratamiento de datos previo al EDA preliminar: [EDA.ipynb](Sprint_1/Yelp.ipynb) 
-- [Informe](Sprint_1/Informe.pdf)  
+- Tratamiento de datos previo al EDA preliminar: 
+    - [EDA.ipynb](Sprint_1/Yelp.ipynb) 
+    - [Informe](Sprint_1/Informe.pdf)  
+
+<span style="float:right;">[arriba](#tabla-de-contenido)</span> 
+
+Los entregables de la semana 2 se encuentran en la carpeta Sprint_2: 
+
+- Carpeta con el tratamiento ETL del los datasets de Goglew Maps y Yelp!:  
+    - [Google_metadatos_sitios.ipynb](Sprint_2/Google_metadatos_sitios.ipynb)  
+    - [Google_reviews_estados.ipynb](Sprint_2/Google_reviews_estados.ipynb)   
+    - [Yelp_datasets.ipynb](Sprint_2) 
+- Carpeta del Modelo de ML: [Google_reviews_estados.ipynb](Sprint_2/Google_reviews_estados.ipynb) 
+- Diccionario de datos: [Diccionario_de_Datos.ipynb](Sprint_2/Diccionario_de_Datos.ipynb) 
+ 
 
 <span style="float:right;">[arriba](#tabla-de-contenido)</span> 
 
