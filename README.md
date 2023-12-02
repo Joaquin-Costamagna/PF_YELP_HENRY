@@ -119,8 +119,8 @@ En esta etapa tambien se hace entrega de se explica el repositorio completo y to
 
 <br>
 
-**`Carpeta 'Sprint_1'.-`** contiene todos los entregables de la etapa 1
-**`Carpeta 'Sprint_1'.-`** contiene todos los entregables de la etapa 2
+**`Carpeta 'Sprint_1'.-`** contiene todos los entregables de la etapa 1  
+**`Carpeta 'Sprint_2'.-`** contiene todos los entregables de la etapa 2
 <!--* **`'EDA.ipynb':`** implementacion del analisis exploratorio de datos. -->
 
 **`Carpeta 'data'.-`** contiene los datasets del proyecto
@@ -246,18 +246,17 @@ A continuación se presentan los 8 KPIs propuestos y sus métricas asociadas:
 Los entregables de la semana 1 se encuentran en la carpeta Sprint_1: 
 
 - Tratamiento de datos previo al EDA preliminar: 
-    - [EDA.ipynb](Sprint_1/Yelp.ipynb) 
-    - [Informe](Sprint_1/Informe.pdf)  
-
+    - [EDA_Preliminar.ipynb](Sprint_1/EDA_Preliminar.ipynb) 
+    - [Informe.pdf](Sprint_1/Informe.pdf)  
 <span style="float:right;">[arriba](#tabla-de-contenido)</span> 
 
 Los entregables de la semana 2 se encuentran en la carpeta Sprint_2: 
 
 - Carpeta con el tratamiento ETL del los datasets de Goglew Maps y Yelp!:  
-    - [Google_metadatos_sitios.ipynb](Sprint_2/Google_metadatos_sitios.ipynb)  
-    - [Google_reviews_estados.ipynb](Sprint_2/Google_reviews_estados.ipynb)   
-    - [Yelp_datasets.ipynb](Sprint_2) 
-- Carpeta del Modelo de ML: [Google_reviews_estados.ipynb](Sprint_2/Google_reviews_estados.ipynb) 
+    - [Google_metadatos_sitios.ipynb](Sprint_2/ETL_de_los_Datasets/Google_metadatos_sitios.ipynb)  
+    - [Google_reviews_estados.ipynb](Sprint_2/ETL_de_los_Datasets/Google_reviews_estados.ipynb)   
+    - [Yelp_datasets.ipynb](Sprint_2/ETL_de_los_Datasets/Yelp_datasets.ipynb) 
+- Carpeta del Modelo de ML: [Analisis_Exploratorio_Preliminar.ipynb](Sprint_2/Modelos_Machine_Learning/Analisis_Exploratorio_Preliminar.ipynb) 
 - Diccionario de datos: [Diccionario_de_Datos.ipynb](Sprint_2/Diccionario_de_Datos.ipynb) 
  
 
