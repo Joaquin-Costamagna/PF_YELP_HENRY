@@ -206,9 +206,9 @@ Se confecciono un informe escrito sobre los resultados obtenidos en la etapa de 
 
 ## 10. Modelo de Machine Learning
 
-El Sistema de Recomendación a diseñar tendra las siguientes caracteristicas:
+El Sistema de Recomendación y Prediccion a diseñar tendra las siguientes caracteristicas:
 
-- Personalización: Proporcionar recomendaciones basadas en las preferencias de los usuarios y las tendencias de reseñas a través de los comentarios en la plataforma Yelp y Gmaps.
+- Personalización: Proporcionar Recomendaciones y Predicciones basadas en las preferencias de los usuarios y las tendencias de reseñas a través de los comentarios en la plataforma Yelp y Gmaps.
 - Eficiencia: Optimizar el tiempo y los recursos de inversión al ofrecer recomendaciones precisas y relevantes.
 - Análisis de Sentimientos: Incorporar análisis de sentimientos en las reseñas para escalar en recomendaciones personalizadas y fidedignas  
 
